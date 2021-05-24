@@ -10,4 +10,6 @@ MetaMask需要使用chrome浏览器。
 ![](https://raw.githubusercontent.com/gpfs-group/airdrop/main/image/4.png)
 
 
+## 联系方式
 
+电报群：  https://t.me/gpfs_cn
