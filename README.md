@@ -3,7 +3,7 @@ GPS代币合约自创建起，自动向10万个币安智能链（BSC）地址空
 
 代币合约地址为：`0x5e772acf0f20b0315391021e0884cb1f1aa4545c`
 
-下面用举例使用MetaMask和TP领取空投，你也可以使用其他钱包。
+下面用举例使用MetaMask和TP钱包领取空投，你也可以使用其他钱包。
 
 ## MetaMask钱包
 MetaMask需要使用chrome浏览器。  
@@ -13,7 +13,9 @@ MetaMask需要使用chrome浏览器。
 ![](https://raw.githubusercontent.com/gpfs-group/airdrop/main/image/4.png)
 
 ## TP钱包
+TP钱包请升级到最新版本
 
+![](https://raw.githubusercontent.com/gpfs-group/airdrop/main/image/tp.png)
 
 ## 联系方式
 
