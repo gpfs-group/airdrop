@@ -7,4 +7,4 @@ Token contract address：`0x5e772acf0f20b0315391021e0884cb1f1aa4545c`
 
 ## Contracts
 
-Telegram：  https://t.me/GPSToken
+Telegram：  https://t.me/gpfsnet
